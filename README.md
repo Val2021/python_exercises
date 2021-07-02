@@ -1,0 +1,2 @@
+**Lógica para minerar bitcoin**
+--
